@@ -10,8 +10,8 @@
 - 💻 Constantly learning and exploring new technologies
 
 ## Skills
-- Frontend: HTML, CSS, JavaScript, React, Vue
-- Backend: Node.js, Express, Django
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express
 - Mobile: Flutter, Dart
 - Design: UI/UX Design, Graphic Designing tools
 - Multimedia: Video Editing tools
