@@ -26,7 +26,7 @@ Here are a few projects I'm proud of:
 - [Payment Integration Website](https://pandey88himanshu.github.io/Payment-Integration-Website/) : Payment gatway added with razorpay.
 
 ## Get in Touch
-- LinkedIn: [Himanshu Pandey](https://www.linkedin.com/in/himanshu-pandey-b5069a24a/)
+- LinkedIn: [Himanshu Pandey](https://www.linkedin.com/in/pandey88himanshu/)
 - Email: pandey88himanshu@email.com
 
 
